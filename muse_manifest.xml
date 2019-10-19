@@ -1,0 +1,15 @@
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="miti.com" resolutions="1x" timestamp="1571482548959">
+  <folder name="images">
+    <file name="mitli-04.png" crc="416768784" seo="true" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="261074645" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index"/>
+    <file name="museutils.js" crc="334180058" ref="index"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3816106863" seo="true" mt="1571482471183" redirect="true"/>
+</manifest>
